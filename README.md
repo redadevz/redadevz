@@ -130,5 +130,4 @@ const redaMaazi = {
 
   <br/><br/>
 
-  ![Wave](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Morocco-7c3aed?style=for-the-badge)
 </div>

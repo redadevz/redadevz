@@ -106,13 +106,6 @@ const redaMaazi = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=redadevz&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -124,30 +117,6 @@ const redaMaazi = {
   </picture>
 </div>
 
-> **To enable the snake animation**, add this GitHub Action file at `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 

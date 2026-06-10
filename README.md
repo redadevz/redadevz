@@ -19,7 +19,6 @@
   <a href="https://github.com/redadevz">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=redadevz&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </div>
 
 <br/>

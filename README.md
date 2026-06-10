@@ -6,7 +6,7 @@
 ![](https://streak-stats.demolab.com/?user=redadevz&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=redadevz&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 

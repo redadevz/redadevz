@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/redadevz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=50&lines=🚀+Full-Stack+Developer+based+in+Morocco;⚡+PHP+%7C+Laravel+%7C+Vue.js+%7C+React;🔥+Building+scalable+%26+elegant+web+apps;🌐+Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%F0%9F%9A%80+Full-Stack+Developer+based+in+Morocco;%E2%9A%A1+PHP+%7C+Laravel+%7C+Vue.js+%7C+React;%F0%9F%94%A5+Building+scalable+%26+elegant+web+apps;%F0%9F%8C%90+Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
   </a>
 </div>
 

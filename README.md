@@ -91,12 +91,12 @@ const redaMaazi = {
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redadevz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redadevz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=redadevz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=redadevz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redadevz&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=redadevz&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="55%" />
 </div>
 
 <div align="center">

@@ -91,7 +91,7 @@ const redaMaazi = {
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=redadevz&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=redadevz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=redadevz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="180" />
 </div>
 

@@ -19,11 +19,11 @@
 <br/>
 
 <!-- animated gradient divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-485e-b06d-37e9c8e8c98e.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/divider.svg" width="100%"/>
 
 <!-- ===== ABOUT ===== -->
 <h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  <img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/icon-about.gif" width="28"/>
   &nbsp;About&nbsp;Me
 </h2>
 
@@ -61,11 +61,11 @@ const redaMaazi = {
 </table>
 
 <!-- animated gradient divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-485e-b06d-37e9c8e8c98e.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/divider.svg" width="100%"/>
 
 <!-- ===== TECH STACK ===== -->
 <h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+  <img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/icon-tech.gif" width="28"/>
   &nbsp;Tech&nbsp;Stack
 </h2>
 
@@ -90,11 +90,11 @@ const redaMaazi = {
 </div>
 
 <!-- animated gradient divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-485e-b06d-37e9c8e8c98e.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/divider.svg" width="100%"/>
 
 <!-- ===== ANALYTICS ===== -->
 <h2>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"/>
+  <img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/icon-analytics.gif" width="28"/>
   &nbsp;GitHub&nbsp;Analytics
 </h2>
 
@@ -116,7 +116,7 @@ const redaMaazi = {
 </div>
 
 <!-- animated gradient divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-485e-b06d-37e9c8e8c98e.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/divider.svg" width="100%"/>
 
 <!-- ===== SNAKE ===== -->
 <h2 align="center">🐍&nbsp;Contribution&nbsp;Graph</h2>

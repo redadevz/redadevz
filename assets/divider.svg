@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" preserveAspectRatio="none" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0"    stop-color="#0f0c29"/>
+      <stop offset="0.25" stop-color="#7c3aed"/>
+      <stop offset="0.5"  stop-color="#0f0c29"/>
+      <stop offset="0.75" stop-color="#a78bfa"/>
+      <stop offset="1"    stop-color="#0f0c29"/>
+    </linearGradient>
+    <style>
+      .flow { animation: slide 6s linear infinite; }
+      @keyframes slide {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-1200px); }
+      }
+    </style>
+  </defs>
+  <g class="flow">
+    <rect x="0"    y="0" width="1200" height="12" rx="6" fill="url(#g)"/>
+    <rect x="1200" y="0" width="1200" height="12" rx="6" fill="url(#g)"/>
+  </g>
+</svg>

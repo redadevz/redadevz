@@ -1,6 +1,6 @@
 <!-- ===== HERO ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Reda%20MAAZI&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Laravel%20%2B%20Vue.js%20%C2%B7%20Agadir%2C%20Morocco&descSize=18&descAlign=50&descAlignY=58&descFontColor=a78bfa&stroke=a78bfa&strokeWidth=2" width="100%"/>
+  <img src="https://raw.githubusercontent.com/redadevz/redadevz/main/assets/hero.svg" width="100%"/>
 </div>
 
 <div align="center">

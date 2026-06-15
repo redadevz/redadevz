@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e16"/>
+      <stop offset="0.5" stop-color="#0d1730"/>
+      <stop offset="1" stop-color="#0a0e16"/>
+    </linearGradient>
+    <linearGradient id="fsweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+      <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2"  dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="faccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="1"   stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#58a6ff" stroke-width="0.5" stroke-opacity="0.06"/>
+    </pattern>
+    <style>
+      .ff { animation: ff 2s ease-out both; }
+      @keyframes ff { from { opacity:0 } to { opacity:1 } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="150" rx="16" fill="url(#fbg)"/>
+  <rect width="1000" height="150" rx="16" fill="url(#fgrid)"/>
+
+  <rect x="400" y="34" width="200" height="2.5" rx="1.25" fill="url(#faccent)"/>
+
+  <text x="500" y="86" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="1" fill="url(#fsweep)">Let&#8217;s build something great</text>
+
+  <text class="ff" x="500" y="118" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',monospace" font-size="13" letter-spacing="3" fill="#79c0ff">OPEN&#160;TO&#160;FREELANCE&#160;&#183;&#160;OPEN&#160;SOURCE&#160;&#183;&#160;COLLABORATIONS</text>
+</svg>
